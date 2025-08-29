@@ -1,4 +1,4 @@
-📊 Sales & Profit Dashboard
+📊 Sales & Profit Dashboard using Microsoft Excel
 
 An interactive Excel dashboard to analyze business performance, sales, and profit trends.
 Built using Pivot Tables, Charts, Slicers, and Conditional Formatting for easy exploration.
